@@ -38,7 +38,7 @@
 
 ---
 
-## **What I Work On**
+## **Side Projects**
 
 - Minecraft server development & infrastructure
 - Custom plugins & systems for streamers & communities
