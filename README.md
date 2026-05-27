@@ -49,4 +49,4 @@
 
 ## **Contact**
 
-- Discord: [chillig3r](https://discord.com/users/chillig3r)
+- Discord: [Lian](https://discord.com/users/chillig3r)
