@@ -1,7 +1,5 @@
 # Lian P. — Developer
 
-[![wakatime](https://wakatime.com/badge/user/018ce505-d3f0-4500-bb1b-44649b9ee659.svg)](https://wakatime.com/@018ce505-d3f0-4500-bb1b-44649b9ee659)
-
 👋 **About Me**
 - Developer at [FhG](https://www.fraunhofer.de/) 🇩🇪
 - 📍 Rostock, Germany
